@@ -60,4 +60,4 @@ int main() {
 ```
 ___СБОРКА___
 
-Файл 1.с запускается на visual studio 2019
+Файл проекта Homework1.sln запускается на visual studio 2019
