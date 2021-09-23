@@ -6,7 +6,7 @@
 
 #include <stdlib.h>
 
-//#pragma warning(disable: 4996) */
+//#pragma warning(disable: 4996)
 
 #define TRUE 1
 #define FALSE 0
