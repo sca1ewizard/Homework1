@@ -1,11 +1,7 @@
 #include <stdint.h>
-
 #include <stdio.h>
-
 #include <limits.h>
-
 #include <stdlib.h>
-
 //#pragma warning(disable: 4996)
 
 #define TRUE 1
