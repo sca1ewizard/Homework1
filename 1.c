@@ -6,7 +6,7 @@
 
 #include <stdlib.h>
 
-//#pragma warning(disable: 4996) */
+//#pragma warning(disable: 4996)
 
 #define TRUE 1
 #define FALSE 0
@@ -58,4 +58,4 @@ int main() {
 	return 0;
 }
 //00000000000000000000000000000000
-//11111111111111111111111111111111   
+//11111111111111111111111111111111
